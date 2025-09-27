@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/Hayden/Desktop/byu-idaho/fall 2025/cse 325/BlazorConnectFour/BlazorConnectFour/obj/Debug/net8.0/scopedcss/projectbundle/BlazorConnectFour.bundle.scp.css",
+      "PackagePath": "staticwebassets/BlazorConnectFour.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/Hayden/Desktop/byu-idaho/fall 2025/cse 325/BlazorConnectFour/BlazorConnectFour/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/Hayden/Desktop/byu-idaho/fall 2025/cse 325/BlazorConnectFour/BlazorConnectFour/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/Hayden/Desktop/byu-idaho/fall 2025/cse 325/BlazorConnectFour/BlazorConnectFour/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/Hayden/Desktop/byu-idaho/fall 2025/cse 325/BlazorConnectFour/BlazorConnectFour/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.BlazorConnectFour.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.BlazorConnectFour.props",
+      "PackagePath": "build\\BlazorConnectFour.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BlazorConnectFour.props",
+      "PackagePath": "buildMultiTargeting\\BlazorConnectFour.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BlazorConnectFour.props",
+      "PackagePath": "buildTransitive\\BlazorConnectFour.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
