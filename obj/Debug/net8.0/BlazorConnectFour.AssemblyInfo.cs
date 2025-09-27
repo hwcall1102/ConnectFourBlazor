@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorConnectFour")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d9c6feac82c8dd43f988f104279bbc7d9bca5ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorConnectFour")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorConnectFour")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

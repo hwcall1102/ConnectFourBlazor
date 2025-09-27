@@ -28,3 +28,4 @@
 /Users/Hayden/Desktop/byu-idaho/fall 2025/cse 325/BlazorConnectFour/BlazorConnectFour/obj/Debug/net8.0/BlazorConnectFour.genruntimeconfig.cache
 /Users/Hayden/Desktop/byu-idaho/fall 2025/cse 325/BlazorConnectFour/BlazorConnectFour/obj/Debug/net8.0/ref/BlazorConnectFour.dll
 /Users/Hayden/Desktop/byu-idaho/fall 2025/cse 325/BlazorConnectFour/BlazorConnectFour/obj/Debug/net8.0/scopedcss/Components/Pages/Board.razor.rz.scp.css
+/Users/Hayden/Desktop/byu-idaho/fall 2025/cse 325/BlazorConnectFour/BlazorConnectFour/obj/Debug/net8.0/BlazorConnectFour.sourcelink.json
